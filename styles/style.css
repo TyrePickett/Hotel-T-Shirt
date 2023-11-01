@@ -1,0 +1,20 @@
+
+
+#main-content{
+    /*background-color: gold;*/
+    margin-top: 100px;
+}
+#shirt-display{
+    position: relative;
+    bottom: 450px;
+    border-style: none;
+    right: 500px;
+
+}
+#size-btn{
+    background-color: white;
+    color:black;
+}
+#buy-btn{
+    margin-top: 150px;
+}
